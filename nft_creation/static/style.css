@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Open-sans', sans-serif;
+}
+
+#music {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.fileLoader {
+    border-radius: 20px !important;
+    color: white !important;
+    background-color: rgb(107, 107, 202) !important;
+    padding: 10px 10px !important;
+    margin-left: 20px !important;
+    margin-bottom: 30px !important;
+}
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
